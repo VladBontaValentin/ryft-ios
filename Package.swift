@@ -7,7 +7,7 @@ let package = Package(
     name: "Ryft",
     defaultLocalization: "en-gb",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(
